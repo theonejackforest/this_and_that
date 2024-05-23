@@ -36,3 +36,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#python channel_switch.py 00:01:02:03:04:05 ff:ff:ff:ff:ff:ff 6 --send
+
